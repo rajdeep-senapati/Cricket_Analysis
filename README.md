@@ -18,7 +18,7 @@ This project analyzes the performance data from the **T20 World Cup 2022** to de
 |------|-------------|
 | `t20_data_preprocessing.ipynb` | Data cleaning and KPI engineering notebook |
 | `Cricket Best 11.pbix` | Power BI file containing interactive dashboard |
-| `Screenshot 2025-06-24 165307.png` | Screenshot of dashboard included in README |
+| `Screenshot 2025-06-24 165307.png` | Screenshot of dashboard used in this README |
 
 ---
 
@@ -43,7 +43,7 @@ This project analyzes the performance data from the **T20 World Cup 2022** to de
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot]([Cricket_Analysis/Screenshot%2025-06-24%165307.png](https://github.com/rajdeep-senapati/Cricket_Analysis/blob/main/Screenshot%202025-06-24%20165307.png))
+![Dashboard Screenshot](https://github.com/rajdeep-senapati/Cricket_Analysis/blob/main/Screenshot%202025-06-24%20165307.png)
 
 > *Screenshot of the interactive Power BI dashboard used for player evaluation and team analysis.*
 
